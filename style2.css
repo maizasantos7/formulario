@@ -1,0 +1,16 @@
+h1{
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  body{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #fff;
+    background-size: cover;
+    background-position: center;
+  }
+  
